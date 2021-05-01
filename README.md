@@ -1,6 +1,11 @@
 # basic_animation
 
-A new Flutter project.
+This is flutter simple animation example using Animation Controller, Tween with CurvedTween
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pOolFnutu6A/0.jpg)](http://www.youtube.com/watch?v=pOolFnutu6A)
+
+
+## https://www.youtube.com/watch?v=pOolFnutu6A
 
 ## Getting Started
 
